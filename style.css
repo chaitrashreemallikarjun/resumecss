@@ -1,0 +1,33 @@
+h1
+{
+ color:red;
+ background-color:grey;
+ font-family:verdana;
+ font-size:250%;
+ font-weight:bold;
+}
+h2
+{
+color:blue;
+background:lightgreen;
+}
+p
+{
+color:navy;
+padding:5px;
+}
+img{border-style:solid;border-width:2px;border-color: black}
+ul
+{
+padding:10px;
+}
+body
+{
+border:1px black;
+margin:20px;
+background:#ffffcc;
+}
+h4
+{
+background-color:lightblue;
+}
